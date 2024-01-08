@@ -4,5 +4,5 @@ C like language compiler
 - [WLP4 language specification](https://student.cs.uwaterloo.ca/~cs241/wlp4/)
 
 ## Files
-wlp4gen : input: wlp4 file --> output: MIPS assembly 
-ams : input: MIPS assembly --> output: MIPS machine language
+- wlp4gen : input: wlp4 file --> output: MIPS assembly 
+- ams : input: MIPS assembly --> output: MIPS machine language
